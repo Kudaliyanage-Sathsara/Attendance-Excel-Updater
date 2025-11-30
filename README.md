@@ -107,7 +107,7 @@ Here are the credentials to access the application:
 ```yaml
 Link: https://thanujasath.pythonanywhere.com/
 Username: admin
-Password: 
+Password: HDQ@1990
    
 ```
 Contributing
